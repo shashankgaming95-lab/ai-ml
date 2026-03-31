@@ -493,5 +493,5 @@ The Exam Performance Predictor successfully demonstrates how machine learning ca
 ---
 
 **Report Generated**: 2026-03-30 11:24:12  
-**Author**: shashankgaming95-lab  
+**Author**: Shashank  
 **Project Status**: ✨ Complete - Ready for Deployment
